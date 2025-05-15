@@ -11,7 +11,7 @@ Exodus tarzı, çoklu blockchain destekli, masaüstü (Electron.js) soğuk cüzd
 
 ## Ekran Görüntüleri
 
-![Cüzdan Dashboard](./screenshots/dashboard.png)
+![Cüzdan Dashboard](https://i.imgyukle.com/2025/05/15/CFrrd6.png)
 
 ## Geliştirme
 
